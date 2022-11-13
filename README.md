@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohcine AHADJANE
-- 👀 Software engineer on deployement
+- 👀 Software engineer on deployment
 
 
 <!---
