@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohcine
-- 👀 Software engineer on deployment
+- 👀 Software engineering student.
 
 
 <!---
