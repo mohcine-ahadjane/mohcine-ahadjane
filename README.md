@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohcine
-- 👀 Software engineering student.
+- 👀 Software engineer.
 
 
 <!---
